@@ -1,0 +1,23 @@
+{
+    "headers": [
+      {
+        "key" : "google-site-verification",
+        "value" : "_QGfOq9CIrKWskl0mobjGr_yLLyZDDIuvWcENn-vLDs"
+      },
+      {
+        "source": "/",
+        "has": [
+          {
+            "type": "host",
+            "value": "kuang-long.vercel.app"
+          }
+        ],
+        "headers" : [
+          {
+            "key" : "X-Robots-Tag",
+            "value" : "all"
+          }
+        ]
+      }
+    ]
+  }

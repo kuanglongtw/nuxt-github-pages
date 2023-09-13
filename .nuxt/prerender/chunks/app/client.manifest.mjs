@@ -1,0 +1,388 @@
+const client_manifest = {
+  "_Bubbles.5ca739db.js": {
+    "resourceType": "script",
+    "module": true,
+    "assets": [
+      "bubble4.72ad84de.svg",
+      "bubble2.18b98f3a.svg"
+    ],
+    "file": "Bubbles.5ca739db.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "bubble4.72ad84de.svg": {
+    "file": "bubble4.72ad84de.svg",
+    "resourceType": "image",
+    "mimeType": "image/svg+xml"
+  },
+  "bubble2.18b98f3a.svg": {
+    "file": "bubble2.18b98f3a.svg",
+    "resourceType": "image",
+    "mimeType": "image/svg+xml"
+  },
+  "_MyFooter.4cebb0b3.js": {
+    "resourceType": "script",
+    "module": true,
+    "file": "MyFooter.4cebb0b3.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_Navbar.d43df316.js": {
+    "resourceType": "script",
+    "module": true,
+    "assets": [
+      "logo.0ea3eb47.svg"
+    ],
+    "file": "Navbar.d43df316.js",
+    "imports": [
+      "_nuxt-link.9a5ab4ae.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "logo.0ea3eb47.svg": {
+    "file": "logo.0ea3eb47.svg",
+    "resourceType": "image",
+    "mimeType": "image/svg+xml"
+  },
+  "_Services.b9a76a48.js": {
+    "resourceType": "script",
+    "module": true,
+    "assets": [
+      "heart.f08dfe3e.png",
+      "doctor.23613969.png",
+      "med.04e110e3.png",
+      "skeleton.852c9421.png"
+    ],
+    "file": "Services.b9a76a48.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "heart.f08dfe3e.png": {
+    "file": "heart.f08dfe3e.png",
+    "resourceType": "image",
+    "mimeType": "image/png"
+  },
+  "doctor.23613969.png": {
+    "file": "doctor.23613969.png",
+    "resourceType": "image",
+    "mimeType": "image/png"
+  },
+  "med.04e110e3.png": {
+    "file": "med.04e110e3.png",
+    "resourceType": "image",
+    "mimeType": "image/png"
+  },
+  "skeleton.852c9421.png": {
+    "file": "skeleton.852c9421.png",
+    "resourceType": "image",
+    "mimeType": "image/png"
+  },
+  "_index.9fdd27cc.js": {
+    "resourceType": "script",
+    "module": true,
+    "file": "index.9fdd27cc.js"
+  },
+  "_nuxt-link.9a5ab4ae.js": {
+    "resourceType": "script",
+    "module": true,
+    "file": "nuxt-link.9a5ab4ae.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-404.css": {
+    "resourceType": "style",
+    "file": "error-404.23f2309d.css",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
+    "resourceType": "script",
+    "module": true,
+    "css": [],
+    "file": "error-404.51dd22fe.js",
+    "imports": [
+      "_nuxt-link.9a5ab4ae.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"
+  },
+  "error-404.23f2309d.css": {
+    "file": "error-404.23f2309d.css",
+    "resourceType": "style"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-500.css": {
+    "resourceType": "style",
+    "file": "error-500.aa16ed4d.css",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
+    "resourceType": "script",
+    "module": true,
+    "css": [],
+    "file": "error-500.4612ff54.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
+  },
+  "error-500.aa16ed4d.css": {
+    "file": "error-500.aa16ed4d.css",
+    "resourceType": "style"
+  },
+  "node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "dynamicImports": [
+      "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
+    ],
+    "file": "entry.896c339f.js",
+    "isEntry": true,
+    "src": "node_modules/nuxt/dist/app/entry.js",
+    "_globalCSS": true
+  },
+  "pages/about.vue": {
+    "resourceType": "script",
+    "module": true,
+    "assets": [
+      "bubble.a5084d95.svg"
+    ],
+    "file": "about.650b2864.js",
+    "imports": [
+      "_Navbar.d43df316.js",
+      "_Bubbles.5ca739db.js",
+      "_MyFooter.4cebb0b3.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_index.9fdd27cc.js",
+      "_nuxt-link.9a5ab4ae.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/about.vue"
+  },
+  "bubble.a5084d95.svg": {
+    "file": "bubble.a5084d95.svg",
+    "resourceType": "image",
+    "mimeType": "image/svg+xml"
+  },
+  "pages/index.css": {
+    "resourceType": "style",
+    "file": "index.1399e444.css",
+    "src": "pages/index.css"
+  },
+  "pages/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "assets": [
+      "lin.ccea6cc9.jpg",
+      "ding.833abc32.jpg",
+      "kuo.fcd51a2b.jpg",
+      "yeh.6944d2fd.jpg",
+      "banner.acdf97e4.jpg",
+      "main.956681fe.svg"
+    ],
+    "css": [],
+    "file": "index.5738e0b2.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js",
+      "_Navbar.d43df316.js",
+      "_Bubbles.5ca739db.js",
+      "_Services.b9a76a48.js",
+      "_MyFooter.4cebb0b3.js",
+      "_nuxt-link.9a5ab4ae.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/index.vue"
+  },
+  "index.1399e444.css": {
+    "file": "index.1399e444.css",
+    "resourceType": "style"
+  },
+  "lin.ccea6cc9.jpg": {
+    "file": "lin.ccea6cc9.jpg",
+    "resourceType": "image",
+    "mimeType": "image/jpeg"
+  },
+  "ding.833abc32.jpg": {
+    "file": "ding.833abc32.jpg",
+    "resourceType": "image",
+    "mimeType": "image/jpeg"
+  },
+  "kuo.fcd51a2b.jpg": {
+    "file": "kuo.fcd51a2b.jpg",
+    "resourceType": "image",
+    "mimeType": "image/jpeg"
+  },
+  "yeh.6944d2fd.jpg": {
+    "file": "yeh.6944d2fd.jpg",
+    "resourceType": "image",
+    "mimeType": "image/jpeg"
+  },
+  "banner.acdf97e4.jpg": {
+    "file": "banner.acdf97e4.jpg",
+    "resourceType": "image",
+    "mimeType": "image/jpeg"
+  },
+  "main.956681fe.svg": {
+    "file": "main.956681fe.svg",
+    "resourceType": "image",
+    "mimeType": "image/svg+xml"
+  },
+  "pages/project/[id].vue": {
+    "resourceType": "script",
+    "module": true,
+    "file": "_id_.8b2331d0.js",
+    "imports": [
+      "_Navbar.d43df316.js",
+      "_Bubbles.5ca739db.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_index.9fdd27cc.js",
+      "_nuxt-link.9a5ab4ae.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/project/[id].vue"
+  },
+  "pages/projects.vue": {
+    "resourceType": "script",
+    "module": true,
+    "file": "projects.98e1981c.js",
+    "imports": [
+      "_Navbar.d43df316.js",
+      "_Bubbles.5ca739db.js",
+      "_index.9fdd27cc.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_nuxt-link.9a5ab4ae.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/projects.vue"
+  },
+  "pages/projectsEdit.vue": {
+    "resourceType": "script",
+    "module": true,
+    "file": "projectsEdit.c60778ba.js",
+    "imports": [
+      "_Navbar.d43df316.js",
+      "_Bubbles.5ca739db.js",
+      "_nuxt-link.9a5ab4ae.js",
+      "_index.9fdd27cc.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/projectsEdit.vue"
+  },
+  "pages/services.css": {
+    "resourceType": "style",
+    "file": "services.d30fb3ec.css",
+    "src": "pages/services.css"
+  },
+  "pages/services.vue": {
+    "resourceType": "script",
+    "module": true,
+    "css": [],
+    "file": "services.5ea52342.js",
+    "imports": [
+      "_Navbar.d43df316.js",
+      "_Services.b9a76a48.js",
+      "_MyFooter.4cebb0b3.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_nuxt-link.9a5ab4ae.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/services.vue"
+  },
+  "services.d30fb3ec.css": {
+    "file": "services.d30fb3ec.css",
+    "resourceType": "style"
+  },
+  "static/images/banner.jpg": {
+    "resourceType": "image",
+    "mimeType": "image/jpeg",
+    "file": "banner.acdf97e4.jpg",
+    "src": "static/images/banner.jpg"
+  },
+  "static/images/bubble.svg": {
+    "resourceType": "image",
+    "mimeType": "image/svg+xml",
+    "file": "bubble.a5084d95.svg",
+    "src": "static/images/bubble.svg"
+  },
+  "static/images/bubble2.svg": {
+    "resourceType": "image",
+    "mimeType": "image/svg+xml",
+    "file": "bubble2.18b98f3a.svg",
+    "src": "static/images/bubble2.svg"
+  },
+  "static/images/bubble4.svg": {
+    "resourceType": "image",
+    "mimeType": "image/svg+xml",
+    "file": "bubble4.72ad84de.svg",
+    "src": "static/images/bubble4.svg"
+  },
+  "static/images/ding.jpg": {
+    "resourceType": "image",
+    "mimeType": "image/jpeg",
+    "file": "ding.833abc32.jpg",
+    "src": "static/images/ding.jpg"
+  },
+  "static/images/doctor.png": {
+    "resourceType": "image",
+    "mimeType": "image/png",
+    "file": "doctor.23613969.png",
+    "src": "static/images/doctor.png"
+  },
+  "static/images/heart.png": {
+    "resourceType": "image",
+    "mimeType": "image/png",
+    "file": "heart.f08dfe3e.png",
+    "src": "static/images/heart.png"
+  },
+  "static/images/kuo.jpg": {
+    "resourceType": "image",
+    "mimeType": "image/jpeg",
+    "file": "kuo.fcd51a2b.jpg",
+    "src": "static/images/kuo.jpg"
+  },
+  "static/images/lin.jpg": {
+    "resourceType": "image",
+    "mimeType": "image/jpeg",
+    "file": "lin.ccea6cc9.jpg",
+    "src": "static/images/lin.jpg"
+  },
+  "static/images/logo.svg": {
+    "resourceType": "image",
+    "mimeType": "image/svg+xml",
+    "file": "logo.0ea3eb47.svg",
+    "src": "static/images/logo.svg"
+  },
+  "static/images/main.svg": {
+    "resourceType": "image",
+    "mimeType": "image/svg+xml",
+    "file": "main.956681fe.svg",
+    "src": "static/images/main.svg"
+  },
+  "static/images/med.png": {
+    "resourceType": "image",
+    "mimeType": "image/png",
+    "file": "med.04e110e3.png",
+    "src": "static/images/med.png"
+  },
+  "static/images/skeleton.png": {
+    "resourceType": "image",
+    "mimeType": "image/png",
+    "file": "skeleton.852c9421.png",
+    "src": "static/images/skeleton.png"
+  },
+  "static/images/yeh.jpg": {
+    "resourceType": "image",
+    "mimeType": "image/jpeg",
+    "file": "yeh.6944d2fd.jpg",
+    "src": "static/images/yeh.jpg"
+  }
+};
+
+export { client_manifest as default };
+//# sourceMappingURL=client.manifest.mjs.map

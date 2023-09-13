@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as c}from"./entry.896c339f.js";const s={},_={class:"min-h-64 mb-0 bg-white/30 px-[10%] py-52 text-center text-white shadow-lg backdrop-blur-sm"},n=c("h3",null,"© copyright 光隆中醫診所 2023 all right reserved.",-1),r=[n];function a(i,h){return t(),o("div",_,r)}const l=e(s,[["render",a]]);export{l as _};

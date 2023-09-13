@@ -1,0 +1,31 @@
+{
+  "name": "juhua-digital",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "format": "prettier --write \"pages/**/*.{js,vue,scss}\" \"components/**/*.{js,vue,scss}\"",
+    "deploy": "gh-pages --dotfiles -d .output/public"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@types/node": "^18",
+    "autoprefixer": "^10.4.14",
+    "gh-pages": "^6.0.0",
+    "nuxt": "^3.6.5",
+    "postcss": "^8.4.24",
+    "prettier": "^2.8.8",
+    "prettier-plugin-tailwindcss": "^0.4.1"
+  },
+  "dependencies": {
+    "@nuxtjs/sitemap": "^2.4.0",
+    "@vueuse/motion": "^2.0.0",
+    "axios": "^1.4.0",
+    "nuxt-simple-robots": "^3.1.0",
+    "nuxt-use-motion": "^2.0.0-beta.11"
+  }
+}
